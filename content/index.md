@@ -1,6 +1,11 @@
 ---
-title: ProjectDiamond
+title: '"index"'
+draft: false
+tags:
+  -
 ---
+ 
+
 # Présentation
 
 Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un membre des forces d'assaut pilotant un vaisseau modulaire. À l'aide de ses compagnons d'armes et de divers modules d'amélioration il traversera divers niveaux avant d'atteindre le vaisseau mère ennemi.
