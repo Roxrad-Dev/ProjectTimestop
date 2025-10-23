@@ -12,7 +12,7 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 
 ## Détails
 ### 1-Presentation
-[[1.1.Project Diamond]]
+[[1.0.Project Diamond]]
 	Concept et Fiche Signalétique
 [[2.PIlliers]]
 	Coeur du project
@@ -20,13 +20,13 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 	Camera control character
 
 ### 2-Systèmes
-[[1.1.Boucle de Gameplay]]
+[[1.0.Boucle de Gameplay]]
 	Boucle de jeu schématisée
-[[1.2.Systèmes de jeu]]
+[[1.1.Systèmes de jeu]]
 	Détail des différentes mécaniques de jeu et I/O du joueur
-[[2.1.Système de progression]]
+[[2.0.Système de progression]]
 	Obtention d'objets, de compagnons et changement de niveaux
-[[2.2.Système de récompense]]
+[[2.1.Système de récompense]]
 	Boucle économique et obtention de récompense au niveau micro et macro
 
 ### 3-Contenu
