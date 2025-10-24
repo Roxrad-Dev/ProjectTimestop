@@ -30,7 +30,7 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 	Boucle économiques schématisée
 
 ### 3-Systèmes
-[[3-1.Systèmes de jeu]]
+[[3-1.0.Systèmes de jeu]]
 	Détail des différentes mécaniques de jeu et I/O du joueur
 [[3-2.Système de progression]]
 	Obtention d'objets, de compagnons et changement de niveaux
