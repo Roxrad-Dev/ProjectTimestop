@@ -40,7 +40,7 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 ### 4-Contenu
 [[1.Univers]]
 	Ambience, monde et contexte
-[[2.Personnages]]
+[[3.Personnages]]
 	Personnage joueur, NPC, ennemis
-[[3.Niveaux]]
+[[2.Niveaux]]
 	Environnement de jeu
