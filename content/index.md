@@ -12,7 +12,7 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 
 ## Détails
 ### 1-Presentation
-[[1a.Project Diamond]]
+[[1a.Project Paradox]]
 	Concept et Fiche Signalétique
 [[1b.Références]]
 	Jeux références
@@ -26,8 +26,6 @@ Project diamond est un shoot'em up roguelike dans lequel le joueur incarne un me
 	Boucle de jeu schématisée
 [[2.Boucle de gameplay détaillée]]
 	Boucle de jeu détaillée de manière textuelle
-[[3.Economy design overview]]
-	Boucle économiques schématisée
 
 ### 3-Systèmes
 [[1a.Systèmes de jeu]]

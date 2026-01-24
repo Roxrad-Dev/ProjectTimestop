@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="p83bN7dhAL8vp5mzIoZQ">
+    <mxGraphModel dx="815" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="200" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-1" value="Avatar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291" y="391" as="sourcePoint" />
+            <mxPoint x="425" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="400" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-6" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;opacity=20;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="707.5" as="sourcePoint" />
+            <mxPoint x="437" y="632.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="296.5" y="735" as="sourcePoint" />
+            <mxPoint x="423.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSUBE9BkiPbuL5tz-UFH-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="296.5" y="700" as="sourcePoint" />
+            <mxPoint x="423.5" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
