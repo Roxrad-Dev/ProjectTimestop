@@ -59,3 +59,8 @@ Concept et Fiche Signalétique
 [[2.Niveaux]]
 
    Environnement de jeu
+
+### 5- CHANGELOG
+[[content/CHANGELOG]]
+
+   Ambience, monde et contexte
