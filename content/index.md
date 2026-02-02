@@ -35,7 +35,7 @@ Concept et Fiche Signalétique
    Boucle de jeu détaillée de manière textuelle
 
 ### 3-Systèmes
-[[1a.Systèmes de jeu]]
+[[1.Systèmes de jeu]]
 
    Détail des différentes mécaniques de jeu et I/O du joueur
    
